@@ -177,7 +177,6 @@ helium/core/open-new-tabs-next-to-active-tab-option.patch
 helium/core/disable-update-toast.patch
 helium/core/disable-fedcm-bubble.patch
 helium/core/add-middle-click-autoscroll-flag.patch
-helium/core/add-force-color-profile-flag.patch
 helium/core/reduce-touchpad-history-swipe-distance.patch
 helium/core/webrtc-default-handling-policy.patch
 helium/core/browser-window-context-menu.patch
